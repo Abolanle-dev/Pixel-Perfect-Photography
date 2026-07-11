@@ -1,2 +1,2 @@
-# Pixel Perefect Photography
+# Pixel Perfect Photography
 Photography website
